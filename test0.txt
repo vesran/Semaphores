@@ -1,0 +1,30 @@
+%IN
+ L : 1
+ E : 1
+ X : 2
+
+%PA
+ N : 3
+ L : 10
+ E : 10
+ X : 10
+
+%PL
+ P(L)
+
+%EL
+ V(L)
+
+%PE
+ P(E)
+
+%EE
+ V(E)
+
+%PX
+ P(X)
+
+%EX
+ V(X)
+
+%FI

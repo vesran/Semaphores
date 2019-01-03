@@ -1,0 +1,47 @@
+%IN
+ L:2
+ E:1
+ X:1
+ M:1
+ N:1
+ O:1
+
+%PA
+ N:10
+ L:10
+ E:10
+ X:10
+
+%PL
+ P(M)
+ P(L)
+ P(E)
+ P(E)
+ V(M)
+
+%EL
+ V(L)
+
+%PE
+ P(N)
+ P(E)
+ P(L)
+ P(L)
+ V(L)
+ V(L)
+ V(N)
+
+%EE
+ V(E)
+
+%PX
+ P(O)
+ P(X)
+ P(L)
+ V(O)
+
+%EX
+ V(X)
+ V(L)
+
+%FI
